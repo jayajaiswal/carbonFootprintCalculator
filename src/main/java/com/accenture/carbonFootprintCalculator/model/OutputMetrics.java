@@ -1,5 +1,10 @@
 package com.accenture.carbonFootprintCalculator.model;
 
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
 public class OutputMetrics {
 
     private String make;
@@ -16,43 +21,4 @@ public class OutputMetrics {
         this.totalEmissionPerYear = totalEmissionPerYear;
     }
 
-    public String getMake() {
-        return make;
-    }
-
-    public void setMake(String make) {
-        this.make = make;
-    }
-
-    public Float getUsagePerYear() {
-        return usagePerYear;
-    }
-
-    public void setUsagePerYear(Float usagePerYear) {
-        this.usagePerYear = usagePerYear;
-    }
-
-    public Float getManufacturingPerYear() {
-        return manufacturingPerYear;
-    }
-
-    public void setManufacturingPerYear(Float manufacturingPerYear) {
-        this.manufacturingPerYear = manufacturingPerYear;
-    }
-
-    public Float getTransportPerYear() {
-        return transportPerYear;
-    }
-
-    public void setTransportPerYear(Float transportPerYear) {
-        this.transportPerYear = transportPerYear;
-    }
-
-    public Float getTotalEmissionPerYear() {
-        return totalEmissionPerYear;
-    }
-
-    public void setTotalEmissionPerYear(Float totalEmissionPerYear) {
-        this.totalEmissionPerYear = totalEmissionPerYear;
-    }
 }

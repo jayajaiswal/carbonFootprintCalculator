@@ -1,7 +1,10 @@
 package com.accenture.carbonFootprintCalculator.model;
 
 import com.opencsv.bean.CsvBindByName;
+import lombok.Getter;
+import lombok.Setter;
 
+@Getter @Setter
 public class InputFactors {
 
     @CsvBindByName(column = "MANUFACTURER")
@@ -30,76 +33,5 @@ public class InputFactors {
     @CsvBindByName(column = "LIFETIME")
     private String lifetime;
 
-    public String getDeviceType() {
-        return deviceType;
-    }
-
-    public void setDeviceType(String deviceType) {
-        this.deviceType = deviceType;
-    }
-
-    public String getModel() {
-        return model;
-    }
-
-    public void setModel(String model) {
-        this.model = model;
-    }
-
-    public String getMake() {
-        return make;
-    }
-
-    public void setMake(String make) {
-        this.make = make;
-    }
-
-    public String getManufacturedIn() {
-        return manufacturedIn;
-    }
-
-    public void setManufacturedIn(String manufacturedIn) {
-        this.manufacturedIn = manufacturedIn;
-    }
-
-    public float getGwpUseRatio() {
-        return gwpUseRatio;
-    }
-
-    public void setGwpUseRatio(float gwpUseRatio) {
-        this.gwpUseRatio = gwpUseRatio;
-    }
-
-    public float getGwpTransportRatio() {
-        return gwpTransportRatio;
-    }
-
-    public void setGwpTransportRatio(float gwpTransportRatio) {
-        this.gwpTransportRatio = gwpTransportRatio;
-    }
-
-    public float getGwpManufacturingRatio() {
-        return gwpManufacturingRatio;
-    }
-
-    public void setGwpManufacturingRatio(float gwpManufacturingRatio) {
-        this.gwpManufacturingRatio = gwpManufacturingRatio;
-    }
-
-    public String getLifetime() {
-        return lifetime;
-    }
-
-    public void setLifetime(String lifetime) {
-        this.lifetime = lifetime;
-    }
-
-    public float getGwpTotal() {
-        return gwpTotal;
-    }
-
-    public void setGwpTotal(float gwpTotal) {
-        this.gwpTotal = gwpTotal;
-    }
 
 }
