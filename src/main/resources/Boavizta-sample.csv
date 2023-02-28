@@ -1,0 +1,5 @@
+﻿SubCategory;Manufacturer;Name;Location;Gwp_Total;gwp_use_ratio;gwp_transport_ratio;gwp_manufacturing_ratio;lifetime
+Laptop;Apple;13-inch MacBook Air (M1 CPU) 256GB - 2020;worldwide;161;0.15;0.08;0.76;3
+Laptop;Apple;13-inch MacBook Air with Retina display (1.1GHz dual-core CPU) 256GB - 2020;worldwide;174;0.15;0.07;0.77;3
+Laptop;Dell;Inspiron 14 5420;worldwide;344;0.083;0.03;0.883;4
+Laptop;Dell;Inspiron 16 5620;worldwide;386;0.09;0.033;0.872;4

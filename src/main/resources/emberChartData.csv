@@ -1,0 +1,243 @@
+country_or_region;year;variable;share_of_generation_pct
+World;2000;Bioenergy;0.99
+World;2000;Clean;35.82
+World;2000;Coal;38.2
+World;2000;Fossil;64.19
+World;2000;Gas;18.15
+World;2000;Hydro;17.51
+World;2000;Nuclear;16.75
+World;2000;Other Fossil;7.84
+World;2000;Other Renewables;0.35
+World;2000;Solar;0.01
+World;2000;Wind;0.21
+World;2001;Bioenergy;0.94
+World;2001;Clean;35.34
+World;2001;Coal;38.18
+World;2001;Fossil;64.67
+World;2001;Gas;18.87
+World;2001;Hydro;16.85
+World;2001;Nuclear;16.94
+World;2001;Other Fossil;7.62
+World;2001;Other Renewables;0.35
+World;2001;Solar;0.01
+World;2001;Wind;0.25
+World;2002;Bioenergy;0.99
+World;2002;Clean;34.74
+World;2002;Coal;38.51
+World;2002;Fossil;65.25
+World;2002;Gas;19.52
+World;2002;Hydro;16.53
+World;2002;Nuclear;16.54
+World;2002;Other Fossil;7.22
+World;2002;Other Renewables;0.34
+World;2002;Solar;0.01
+World;2002;Wind;0.33
+World;2003;Bioenergy;1.03
+World;2003;Clean;33.56
+World;2003;Coal;39.68
+World;2003;Fossil;66.44
+World;2003;Gas;19.67
+World;2003;Hydro;15.97
+World;2003;Nuclear;15.82
+World;2003;Other Fossil;7.09
+World;2003;Other Renewables;0.34
+World;2003;Solar;0.01
+World;2003;Wind;0.39
+World;2004;Bioenergy;1.08
+World;2004;Clean;33.99
+World;2004;Coal;39.18
+World;2004;Fossil;66.01
+World;2004;Gas;20.16
+World;2004;Hydro;16.36
+World;2004;Nuclear;15.69
+World;2004;Other Fossil;6.67
+World;2004;Other Renewables;0.34
+World;2004;Solar;0.02
+World;2004;Wind;0.5
+World;2005;Bioenergy;1.17
+World;2005;Clean;33.53
+World;2005;Coal;39.66
+World;2005;Fossil;66.47
+World;2005;Gas;20.38
+World;2005;Hydro;16.3
+World;2005;Nuclear;15.13
+World;2005;Other Fossil;6.43
+World;2005;Other Renewables;0.33
+World;2005;Solar;0.02
+World;2005;Wind;0.58
+World;2006;Bioenergy;1.2
+World;2006;Clean;33.26
+World;2006;Coal;40.29
+World;2006;Fossil;66.74
+World;2006;Gas;20.77
+World;2006;Hydro;16.25
+World;2006;Nuclear;14.73
+World;2006;Other Fossil;5.68
+World;2006;Other Renewables;0.33
+World;2006;Solar;0.03
+World;2006;Wind;0.72
+World;2007;Bioenergy;1.26
+World;2007;Clean;32.02
+World;2007;Coal;41
+World;2007;Fossil;67.98
+World;2007;Gas;21.43
+World;2007;Hydro;15.74
+World;2007;Nuclear;13.78
+World;2007;Other Fossil;5.55
+World;2007;Other Renewables;0.32
+World;2007;Solar;0.04
+World;2007;Wind;0.88
+World;2008;Bioenergy;1.32
+World;2008;Clean;32.79
+World;2008;Coal;40.35
+World;2008;Fossil;67.22
+World;2008;Gas;21.63
+World;2008;Hydro;16.44
+World;2008;Nuclear;13.51
+World;2008;Other Fossil;5.24
+World;2008;Other Renewables;0.34
+World;2008;Solar;0.06
+World;2008;Wind;1.12
+World;2009;Bioenergy;1.44
+World;2009;Clean;33.2
+World;2009;Coal;39.99
+World;2009;Fossil;66.8
+World;2009;Gas;21.92
+World;2009;Hydro;16.51
+World;2009;Nuclear;13.39
+World;2009;Other Fossil;4.89
+World;2009;Other Renewables;0.35
+World;2009;Solar;0.1
+World;2009;Wind;1.41
+World;2010;Bioenergy;1.55
+World;2010;Clean;32.81
+World;2010;Coal;39.95
+World;2010;Fossil;67.2
+World;2010;Gas;22.7
+World;2010;Hydro;16.3
+World;2010;Nuclear;12.83
+World;2010;Other Fossil;4.55
+World;2010;Other Renewables;0.33
+World;2010;Solar;0.15
+World;2010;Wind;1.65
+World;2011;Bioenergy;1.59
+World;2011;Clean;32.19
+World;2011;Coal;40.73
+World;2011;Fossil;67.81
+World;2011;Gas;22.24
+World;2011;Hydro;16.07
+World;2011;Nuclear;11.89
+World;2011;Other Fossil;4.84
+World;2011;Other Renewables;0.32
+World;2011;Solar;0.29
+World;2011;Wind;2.03
+World;2012;Bioenergy;1.68
+World;2012;Clean;32.1
+World;2012;Coal;39.97
+World;2012;Fossil;67.9
+World;2012;Gas;22.97
+World;2012;Hydro;16.44
+World;2012;Nuclear;10.84
+World;2012;Other Fossil;4.96
+World;2012;Other Renewables;0.32
+World;2012;Solar;0.43
+World;2012;Wind;2.39
+World;2013;Bioenergy;1.78
+World;2013;Clean;32.65
+World;2013;Coal;40.83
+World;2013;Fossil;67.36
+World;2013;Gas;21.87
+World;2013;Hydro;16.56
+World;2013;Nuclear;10.6
+World;2013;Other Fossil;4.66
+World;2013;Other Renewables;0.32
+World;2013;Solar;0.58
+World;2013;Wind;2.81
+World;2014;Bioenergy;1.89
+World;2014;Clean;33.18
+World;2014;Coal;40.57
+World;2014;Fossil;66.82
+World;2014;Gas;21.94
+World;2014;Hydro;16.5
+World;2014;Nuclear;10.56
+World;2014;Other Fossil;4.31
+World;2014;Other Renewables;0.33
+World;2014;Solar;0.84
+World;2014;Wind;3.06
+World;2015;Bioenergy;2.03
+World;2015;Clean;33.89
+World;2015;Coal;38.74
+World;2015;Fossil;66.11
+World;2015;Gas;23.09
+World;2015;Hydro;16.36
+World;2015;Nuclear;10.58
+World;2015;Other Fossil;4.28
+World;2015;Other Renewables;0.34
+World;2015;Solar;1.08
+World;2015;Wind;3.5
+World;2016;Bioenergy;2.01
+World;2016;Clean;34.57
+World;2016;Coal;37.99
+World;2016;Fossil;65.43
+World;2016;Gas;23.49
+World;2016;Hydro;16.45
+World;2016;Nuclear;10.46
+World;2016;Other Fossil;3.95
+World;2016;Other Renewables;0.35
+World;2016;Solar;1.35
+World;2016;Wind;3.95
+World;2017;Bioenergy;2.07
+World;2017;Clean;35.19
+World;2017;Coal;38.05
+World;2017;Fossil;64.82
+World;2017;Gas;23.28
+World;2017;Hydro;16.2
+World;2017;Nuclear;10.25
+World;2017;Other Fossil;3.49
+World;2017;Other Renewables;0.35
+World;2017;Solar;1.78
+World;2017;Wind;4.54
+World;2018;Bioenergy;2.11
+World;2018;Clean;35.62
+World;2018;Coal;38.05
+World;2018;Fossil;64.38
+World;2018;Gas;23.26
+World;2018;Hydro;16.04
+World;2018;Nuclear;10.07
+World;2018;Other Fossil;3.07
+World;2018;Other Renewables;0.35
+World;2018;Solar;2.19
+World;2018;Wind;4.86
+World;2019;Bioenergy;2.19
+World;2019;Clean;36.92
+World;2019;Coal;36.73
+World;2019;Fossil;63.08
+World;2019;Gas;23.55
+World;2019;Hydro;16.01
+World;2019;Nuclear;10.33
+World;2019;Other Fossil;2.8
+World;2019;Other Renewables;0.35
+World;2019;Solar;2.66
+World;2019;Wind;5.38
+World;2020;Bioenergy;2.3
+World;2020;Clean;38.49
+World;2020;Coal;35.39
+World;2020;Fossil;61.51
+World;2020;Gas;23.42
+World;2020;Hydro;16.52
+World;2020;Nuclear;10.03
+World;2020;Other Fossil;2.7
+World;2020;Other Renewables;0.36
+World;2020;Solar;3.24
+World;2020;Wind;6.04
+World;2021;Bioenergy;2.4
+World;2021;Clean;38.2
+World;2021;Coal;36.26
+World;2021;Fossil;61.8
+World;2021;Gas;22.79
+World;2021;Hydro;15.22
+World;2021;Nuclear;9.85
+World;2021;Other Fossil;2.75
+World;2021;Other Renewables;0.34
+World;2021;Solar;3.74
+World;2021;Wind;6.65
