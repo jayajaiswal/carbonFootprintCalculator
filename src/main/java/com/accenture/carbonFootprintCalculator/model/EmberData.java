@@ -19,6 +19,10 @@ public class EmberData {
     @CsvBindByName(column = "share_of_generation_pct")
     private Double generationPercent;
 
+    @CsvBindByName(column = "percent_energy")
+    private double percentEnergy;
+
+
     @Override
     public String toString() {
         return "EmberData{" +
@@ -26,8 +30,7 @@ public class EmberData {
                 ", year=" + year +
                 ", typeOfEnergy='" + typeOfEnergy + '\'' +
                 ", generationPercent=" + generationPercent +
+                ", percentEnergy=" + percentEnergy +
                 '}';
     }
-
-
 }

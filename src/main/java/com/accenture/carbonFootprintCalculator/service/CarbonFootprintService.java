@@ -20,7 +20,8 @@ public class CarbonFootprintService {
     @Value("${emberData.url}")
     private String emberDataUri;
 
-    private static List<String> bioEnergy = Arrays.asList("Bioenergy", "Clean", "Hydro", "Other Renewables", "Solar", "Wind","Nuclear");
+    private static List<String> bioEnergy = Arrays.asList("Bioenergy", "Clean", "Hydro",
+                                                    "Other Renewables", "Solar", "Wind","Nuclear");
 
     public OutputMetrics calculateMetrics(InputFactors inputs){
 
@@ -62,13 +63,13 @@ public class CarbonFootprintService {
                    .collect(Collectors.toList());
 
            System.out.println("emberData: "+emberData.size());
-           Double percentShareOfBioEnergy = emberData.stream()
+           Double percentShareOfNonBioEnergy = emberData.stream()
                                             .filter( energy -> !bioEnergy.contains(energy.getTypeOfEnergy()))
-                                            .map(data -> data.getGenerationPercent())
-                                            .collect(Collectors.summingDouble(Double :: doubleValue));
+                                            .map(data -> data.getPercentEnergy())
+                                            .collect(Collectors.summingDouble(Double :: doubleValue))/100;
 
            emberData.forEach(System.out::println);
-           System.out.println("percent share: "+percentShareOfBioEnergy);
+           System.out.println("percent share: "+percentShareOfNonBioEnergy);
 
         }
         filteredOutput = output.stream().
